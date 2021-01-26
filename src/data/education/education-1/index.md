@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Columbia University'
+university: 'University of Virginia'
 degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+startDate: 'Oct 1997'
+endDate: 'Jul 2001'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I did it my way
