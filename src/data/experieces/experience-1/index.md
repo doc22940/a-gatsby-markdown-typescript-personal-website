@@ -1,6 +1,6 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
+company: 'Hard Knocks'
 position: 'UI/UX Designer'
 startDate: 'Mar 2010'
 endDate: 'Dec 2010'
