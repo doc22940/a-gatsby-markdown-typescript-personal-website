@@ -1,7 +1,7 @@
 ---
 category: 'education'
-university: 'Stanford University'
-degree: 'Master of Science'
+university: 'Them dirty streets'
+degree: 'Master of Nothing'
 startDate: 'Oct 2008'
 endDate: 'Jul 2010'
 ---
