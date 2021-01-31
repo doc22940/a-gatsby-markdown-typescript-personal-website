@@ -1,6 +1,6 @@
 ---
 category: 'testimonials'
-cover: './avataars 2.png'
+cover: './testimonial-2.jpg'
 title: 'Daisy Buchanan'
 ---
 
