@@ -1,6 +1,6 @@
 ---
 category: 'testimonials'
-cover: './avataars.png'
+cover: './testimonial-1.jpg'
 title: 'Big Red'
 ---
 
